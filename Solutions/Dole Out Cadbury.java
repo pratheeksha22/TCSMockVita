@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 import java.util.*; 
-public class C{
+public class Dole Out Cadbury{
   public static int max(int a,int b)
   {
     if(a>b)
